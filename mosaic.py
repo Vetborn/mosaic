@@ -12,7 +12,7 @@ import random
 import edges, guides, tiles, convex, coloring, plotting
 
 # Select filename of input image
-fname = r'' # let empty for test image
+fname = r'https://drive.google.com/file/d/16BTxLP5TAr-1o4wcOr7sXLxgILTapvQ7/view?usp=sharing' # let empty for test image
 
 
 # Parameters
